@@ -5,7 +5,7 @@ url: https://takagotch.github.io/page27
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+meta_author: Takashi Yoshioka
 
 # Google webmaster tools
 google_verify:
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: King. Takashi Yoshioka
   location: Location
   social: Around the Web
   credits: Credits
@@ -40,15 +40,15 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/takagotch
   - title: facebook
-    url:
+    url: http://facebook.com/takagotch
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: http://stackoverflow.com/questions/tagged/takagotch
   - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: http://bitbucket.org/takagotch
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/takagotch
 
 # Postal address (add as many lines as necessary)
 address:
@@ -69,3 +69,4 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
